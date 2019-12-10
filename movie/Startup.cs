@@ -33,10 +33,9 @@ namespace movie
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+            services.AddScoped<MovieService>();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
-            services.AddDbContext<MovieContext>(options =>
-        options.UseSqlServer(Configuration.GetConnectionString("MovieContext")));
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -33,3 +33,4 @@ C:\Users\ely\source\repos\movie\movie\obj\Debug\netcoreapp2.2\Razor\Views\Movies
 C:\Users\ely\source\repos\movie\movie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Details.g.cshtml.cs
 C:\Users\ely\source\repos\movie\movie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Edit.g.cshtml.cs
 C:\Users\ely\source\repos\movie\movie\obj\Debug\netcoreapp2.2\Razor\Views\Movies\Index.g.cshtml.cs
+C:\Users\ely\source\repos\movie\movie\bin\Debug\netcoreapp2.2\MongoDB.Driver.Legacy.dll

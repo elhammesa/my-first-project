@@ -10,6 +10,16 @@
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="MongoDB.Bson" Version="2.9.3" />
+    <PackageReference Include="MongoDB.Driver" Version="2.9.3" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.9.3" />
+  </ItemGroup>
+
+
+  <ItemGroup>
+    <Reference Include="MongoDB.Driver.Legacy">
+      <HintPath>E:\mongodb\TopLearn.Com_NoSql_MongoDB_Part_02\TopLearn.Com_NoSql_MongoDB_Part_02\Dlls\MongoDB.Driver.Legacy.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
